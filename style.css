@@ -7,3 +7,8 @@ h1{
     color: salmon;
     background-color: seagreen;
 }
+div{
+    color: sienna;
+    background-color: silver;
+    background-image: -moz-linear-gradient();
+}
